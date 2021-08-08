@@ -1,6 +1,8 @@
 # History 
 
-The JuniorDev Auckland User Group first started in April 2018. It was formed by a community of learners and junior developers with the aim to support each other through the development of their career beginnings.
+The JuniorDev Auckland User Group started in April 2018. It was formed as a chapter of the larger JuniorDev User Group (with chapters across Australia) with the aim to support each other through the development of their career beginnings. It continued to meet regularly until November 2019 at which point the original organisers stepped down.
+
+In November 2020 the group was started up again by Mark, Hitarth, Audrey, Hamish & Raymond. Since then it's met semi-regularly, at first having monthly meetings and then over time moving to a meeting every second month.
 
 
 # Purpose of JuniorDev Auckland User Group
