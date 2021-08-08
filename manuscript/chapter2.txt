@@ -1,17 +1,13 @@
-# Chapter Two
+# Guiding questions
 
-Here are some quick Markdown examples to get you started.
+## Who runs JDA UG?
 
-To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
+## How does JDA UG meet?
 
-To *italicize*, surround a word in asterisks.
+## What does JDA UG meetings look like?
 
-To **bold**, use two asterisks.
+## Are there other chapters of Junior Dev?
 
-Here is a [link to the leanpub home-page](https://leanpub.com).
+What does JuniorDev UG's volunteer leadership opportunities look like?
 
-Here's how you insert an image from the resources folder:
-
-![Palm Trees](palm-trees.jpg)
-
-Chapter 3 tells you how to make a preview of your book.
+What are your JuniorDev UG attendee expectations?
