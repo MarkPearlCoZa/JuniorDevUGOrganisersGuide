@@ -20,23 +20,23 @@ Be Nice, Be Supportive, Be Honest, Be Open.
 
 Our community is dedicated to providing a harassment-free experience for everyone, regardless of…
 
-Gender identity and expression
-Age
-Sexual orientation
-Disability
-Physical appearance, body size, race, ethnicity
-Religion (or lack thereof)
-Technology choices
+* Gender identity and expression  
+* Age  
+* Sexual orientation  
+* Disability  
+* Physical appearance, body size, race, ethnicity  
+* Religion (or lack thereof)  
+* Technology choices  
 
 We do not tolerate harassment of participants in any form! The following behaviour will not be tolerated...
 
-Use of sexual language and imagery.
-Deliberate intimidation.
-Stalking, following.
-Harassing photography or recording. It’s not OK to record someone's whole talk without their consent, and listen to people when they say they don’t want to be photographed.
-Constantly interrupting speakers. Questions are ok (if the speaker has indicated as such), what’s not ok is a repeated barrage of questions that are only asked make you look smart.
-Inappropriate physical contact.
-Unwelcome sexual attention.
+* Use of sexual language and imagery.  
+* Deliberate intimidation.  
+* Stalking, following.  
+* Harassing photography or recording. It’s not OK to record someone's whole talk without their consent, and listen to people when they say they don’t want to be photographed.  
+* Constantly interrupting speakers. Questions are ok (if the speaker has indicated as such), what’s not ok is a repeated barrage of questions that are only asked make you look smart.  
+* Inappropriate physical contact.  
+* Unwelcome sexual attention.  
 
 What we'll do bout it
 
@@ -48,9 +48,9 @@ Privacy and dignity of the incident reporter and person being harassed is our pr
 
 If it has been deemed that you acted inappropriately
 
-Listen to the complaint with an open mind
-Don’t be dismissive of the complainant
-Understand any advice given on how to act in the future
-Comply with the directions of the JuniorDev organisers
+* Listen to the complaint with an open mind  
+* Don’t be dismissive of the complainant  
+* Understand any advice given on how to act in the future  
+* Comply with the directions of the JuniorDev organisers  
 
 We hope that the JuniorDev Auckland community is a positive and safe space for all. Failure to comply with the above code of conduct may result in expulsion from the JuniorDev Auckland community. If you’d like to discuss the guidelines above please reach out to the organisers.
