@@ -4,13 +4,14 @@ For the sake of brevity, the Junior Dev Auckland User Group will be referred to 
 
 ## Who runs JDA?
 
-JDA is run by volunteers. It has a standing organising committee of 3-5 people. We have a hard limit on the number of organising committee members because over a certain size the work to align and collaborate becomes more than the benefit of the additional capacity provided.
+JDA is run by volunteers. It has a standing organising committee of 3-5 people. There is a hard limit on the number of organising committee members because over a certain size the work to align and collaborate becomes more than the benefit of the additional capacity provided by more people.
 
-If an existing committee member steps down, the remaining organising committee determine if they want to fill the space.
-Anyone can be put forward for consideration (volunteer themself, put forward by person stepping down) but the decision on whether they become a committee member sits with the remaining organising committee and is determined by majority vote.
+Organising committee members are expected to reguarly be involved in UG meetings but are not required to be at every event.
 
-Committee members are expected to be reguarly involved in UG meetings but are not required to be at every event.
-New committee members are taken on for a 3 month trial before becoming full fledged members. This gives the new member time to establish if they understood exactly what they were getting involved in, as well as allowing the existing committee to determine if they work well together.
+If an existing committee member steps down, the remaining organising committee determine if they want to fill the space with a new organising committee member.
+Anyone can be put forward for consideration but the decision on whether they ultimately become an organising committee member sits with the organising committee memebers still serving. It is determined by majority vote.
+
+New committee members are taken on for a trial perod before becoming permanent organising committee members - this gives them time to establish if they understand what they are getting involved in and have capacity to meaninfully contribute. It also allows existing committee members to determine if they work well together.
 
 ## What are the organising committee responsibilities?
 
@@ -59,20 +60,28 @@ The food orgnaiser is responsbile for making sure we have food organised for eac
 
 ### Shared responsibilities
 
-* Updating meetup for new events
+In addition to these dedicated responsibilities, there are several responsibilities that are shared across the organising committee. These include:
+
+* Updating meetups for new events
 * Identifying and approaching new speakers and topics
+* Deciding when events will happen and who will present at what event
 
 ## How does JDA meet?
 
-JDA is an in person user group. We meet face to face in Auckland. We do not live stream meetings because we feel this detracts and complicates the in person meetings.
+JDA is an in person user group. We meet face to face in Auckland. We do not live stream meetings because we feel this detracts and complicates organising in-person meetups.
 
 ## Where do we meet?
 
-We
+We meet at Xero's offices in Parnell. We try keep the same venue for meetings because:
+
+* It provides predictability for members attending the group (once you have figured out park, transport etc it's a known entity)  
+* It simplifies organsiing events (making sure it is bookedn and available, we have the right seating, access, projectors working)  
+* Xero covers the cost of food which attracts attendees and reduces the user groups operating costs  
+* Xero's intentions around hosting and giving back to the community appear genuine  
 
 ## What do our regular meetings look like?
 
-Our standard monthly meeting consists of two speakers - first speaker covers a topic for 10 minutes, second speaker covers a topic for 20 minutes.
+Our standard bi-monthly meeting consists of two speakers - first speaker covers a topic for 10 minutes, second speaker covers a topic for 20 minutes.
 
 Start time
 Mingling - 15 minutes
@@ -87,8 +96,8 @@ Total meeting time ~ 60 to 70 minutes.
 
 Attend when you can, we like to see regular faces but also welcome the once off visitors.
 The user group is for learning. We don't expect attendees to actively be recruiting during the meeting.
+We expect attendees to abide by our code of conduct rules.
 
 ## Are there other chapters of Junior Dev?
 
 We believe there are other chapers of Junior Dev out there however we are not sure if they are still running and we have no requirement to have aligned values, views of meeting formats.
-
