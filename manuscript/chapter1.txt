@@ -1,13 +1,17 @@
 # History 
 
-The JuniorDev Auckland User Group started in April 2018. It was formed as a chapter of the larger JuniorDev User Group with other chapters located in Australia and other parts of the world. The aim of the user group is to support new software developers through the development of their career beginnings. Junior Dev Auckland User Group continued to meet regularly until November 2019 at which point the original organisers stepped down and regular meetings stopped happening.
+The JuniorDev Auckland User Group started in April 2018. It was formed as a chapter of the larger JuniorDev User Group with other chapters located in Australia and other parts of the world.  
 
-In November 2020 the group was started up again by Mark, Hitarth, Audrey, Hamish & Raymond with the aim to continue the mission of supporting new software developers in their career development. Since then the group has met semi-regularly, at first having monthly meetings and then over time moving to a meeting every second month.
+Junior Dev Auckland User Group continued to meet regularly from April 2018 to November 2019 at which point the original organisers stepped down and regular meetings stopped happening.
+
+In November 2020 the group was started up again by Mark and  Hitarth, who were soon joined by Audrey, Hamish & Raymond. The aim of the user group stayed the same, to continue supporting new software developers in their career and professional development. 
+Since 2020, the group has met semi-regularly, at first having monthly meetings and then over time moving to a meeting every second month.
 
 # Purpose of JuniorDev Auckland User Group
 
-The purpose of JuniorDev User Group is to...
+The aim of the user group is to support new software developers through the development of their career beginnings
 
-* Provide a group of peers where new/junior software developers can meet and share their learnings with each other
-* Broaden and increase user group members knowledge of what being a professional software developer means
-* Establish friendships and support with like minded software professionals 
+This includes:
+* Providing a group of peers where new/junior software developers can meet and share their learnings with each other
+* Broadening and increasing user group members knowledge of what being a professional software developer means
+* Providing a platform to establish friendships and support with like minded software professionals   
