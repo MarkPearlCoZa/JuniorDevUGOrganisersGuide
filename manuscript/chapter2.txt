@@ -4,13 +4,29 @@ For the sake of brevity, the Junior Dev Auckland User Group will be referred to 
 
 ## Who runs JDA?
 
-JDA is run by an organising committee.
+JDA is run by a standing organising committee. If an existing standing committee member stands down, the remaining committee members determine the replacement by majority vote.
+
+## What are the organising committee responsibilities?
+
+Various organiser responsibilities include:
+
+* Organising / booking the venue
+* Organising food for each meeting
+* Confirming speakers for each event
+* Introducing speakers, giving gifts, 
+* Preparing gifts for speakers
+* Updating meetup for new events
+* Identifying and approaching new speakers and topics
 
 ## How does JDA meet?
 
 JDA is an in person user group. We meet face to face in Auckland. We do not live stream meetings because we feel this detracts and complicates the in person meetings.
 
-## What does JDA UG meetings look like?
+## Where do we meet?
+
+We
+
+## What do our regular meetings look like?
 
 Our standard monthly meeting consists of two speakers - first speaker covers a topic for 10 minutes, second speaker covers a topic for 20 minutes.
 
@@ -23,23 +39,12 @@ Food / conversation - 30 minutes
 
 Total meeting time ~ 60 to 70 minutes.
 
-## Are there other chapters of Junior Dev?
-
-We believe there are other chapers of Junior Dev out there however we are not sure if they are still running and we have no requirement to have aligned values, views of meeting formats.
-
-## What does JuniorDev UG's volunteer leadership opportunities look like?
-
-Various organiser responsibilities include:
-
-* Organising / booking the venue
-* Organising food for each meeting
-* Confirming speakers for each event
-* Introducing speakers, giving gifts, 
-* Preparing gifts for speakers
-* Updating meetup for new events
-* Identifying and approaching new speakers and topics
-
 ## What are your JuniorDev UG attendee expectations?
 
 Attend when you can, we like to see regular faces but also welcome the once off visitors.
 The user group is for learning. We don't expect attendees to actively be recruiting during the meeting.
+
+## Are there other chapters of Junior Dev?
+
+We believe there are other chapers of Junior Dev out there however we are not sure if they are still running and we have no requirement to have aligned values, views of meeting formats.
+
