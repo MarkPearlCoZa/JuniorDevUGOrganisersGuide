@@ -8,7 +8,7 @@ JDA is run by volunteers. It has a standing organising committee of 3-5 people. 
 
 Organising committee members are expected to reguarly be involved in UG meetings but are not required to be at every event.
 
-If an existing committee member steps down, the remaining organising committee determine if they want to fill the space with a new organising committee member. Anyone can be put forward for consideration but the decision on whether they ultimately become an organising committee member sits with the organising committee memebers still serving. It is determined by majority vote.
+If an existing committee member steps down, the remaining organising committee members determine if they want to fill the space with a new organising committee member. Anyone can be put forward for consideration but the decision on whether the candidate ultimately becomes an organising committee member sits with the remaining organisig committee memebers still serving. It is determined by majority vote.
 
 New committee members are taken on for a trial perod before becoming permanent organising committee members - this gives them time to establish what they are getting involved in and whether they have capacity to meaninfully contribute. It also allows existing committee members to determine if the new committee member works well with the group.
 
@@ -22,67 +22,26 @@ Various organiser responsibilities include:
 * Door duty
 * Food organiser
 
-### Event Host
-
-The event host is front of house during an event. Their responsibility includes:
-
-* Confirming speakers for each event
-* Welcoming everyone to the event at the beginning of the meeting
-* Running through the meeting agenda
-* Introducing speakers
-* Facilitating Q&A after each speaker
-* Thanking speakers and giving them gifts
-
-### Venue Organiser
-
-The venue organiser is responsible for making sure the venue is booked, setup and returned back to the state it was before the event started. Their responsibility includes:
-* Organising / confirming booking the venue for each event
-* Co-ordinating people to set up the venue before the event starts
-* Co-ordinating people to return the venue back to the state it was before
-
-### Thank you gift organiser
-
-The thank you gift organiser makes sure we have appropriate gifts for the speakers and that the gifts are given to the event host before the event. Their responsibility includes:
-* Co-ordinating buying gifts
-* Preparing gifts for speakers
-* Co-ordinating getting the gifts to the host before the event
-
-### Registration Coordinator
-
-The registration co-ordinator is responsible for making sure people who have RSVP ed to an event are registered and that anyone attending an event has met the correct building health and safety requirements. Their responsibility includes:
-* Being at the event early to make sure people attending are registered and have signed in
-* Welcoming people attending for the first time
-
-### Door duty
-
-The person on door duty is responsible for making sure people who arrive at the venue get to the registration desk. Their responsibility includes:
-* Being at the event early to be around when attendees start arriving
-* Helping people get from the entrance to registration
-
-### Food Organiser
-
-The food organiser is responsible for making sure we have food organised for each event. Their responsibilities includes:
-* Making sure food is ordered on the day and delivered on time
-
-### Shared responsibilities
-
 In addition to these dedicated responsibilities, there are several responsibilities that are shared across the organising committee. These include:
 
 * Updating the Meetup site for new events
 * Identifying and approaching new speakers and topics
 * Deciding when events will happen and who will present at what event
 
+## How does the organsiing committee communicate?
 
-## Where do we meet?
+Most communication is done via Slack in the [AklJrDev Slack group](akljrdev.slack.com). We occaisonally organise online catch ups to sync up on speakers and upcoming events.
 
-JDA is an in person user group. We meet face to face in Auckland. We do not live stream meetings because we feel this detracts and complicates organising in-person meetings.
+## Where does JDA meet?
 
-We meet at Xero's offices in Parnell. We try keep the same venue for meetings because:
+We are an in person user group meaning we meet face to face in Auckland.  We currently meet at Xero's offices in Parnell. We try keep the same venue for meetings because:
 
 * It provides predictability for members attending the group (once you have figured out park, transport etc it's a known entity)  
-* It simplifies organising events (making sure it is booked and available, we have the right seating, access, projectors working)  
+* It simplifies organising events (making sure the venue is booked and available, that we have the right seating, that projectors are working)  
 * Xero covers the cost of food which attracts attendees and reduces the user groups operating costs  
 * Xero's intentions around hosting and giving back to the community appear genuine  
+
+We do not live stream meetings because we feel this detracts and complicates organising in-person meetings.
 
 ## What do our regular meetings look like?
 
@@ -97,11 +56,16 @@ Food / conversation - 30 minutes
 
 Total meeting time ~ 60 to 70 minutes.
 
+## What topics are covered in our events?
+
+We like to have a mix of "technical" and "soft topics". This aligns with the 
+
 ## Planning events
 
 We use a Google Sheet called [Speakers and Talks](https://docs.google.com/spreadsheets/d/1XhQ1aYOzX1wR9nFpM881VYj3oxLeBhN5jlZYMvG7z6A/edit?usp=sharing) to plan/co-ordinate what's been done for each event.
+We are intentional around being clear on who is performing what role for each event so that things run smoothly and everyone has a good experience.
 
-## What are your JuniorDev UG attendee expectations?
+## What are our expectations on attendees at events?
 
 Attend when you can, we like to see regular faces but also welcome the once off visitors.
 The user group is for learning. We don't expect attendees to actively be recruiting during the meeting.
