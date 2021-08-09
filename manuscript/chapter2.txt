@@ -4,10 +4,13 @@ For the sake of brevity, the Junior Dev Auckland User Group will be referred to 
 
 ## Who runs JDA?
 
-JDA is run by volunteers. 
-It has a standing organising committee of 3-5 people. 
-If an existing committee member steps down, the remaining committee members determine the replacement by majority vote of the committee.
-Committee members are expected to be involved in at least UG meetings.
+JDA is run by volunteers. It has a standing organising committee of 3-5 people. We have a hard limit on the number of organising committee members because over a certain size the work to align and collaborate becomes more than the benefit of the additional capacity provided.
+
+If an existing committee member steps down, the remaining organising committee determine if they want to fill the space.
+Anyone can be put forward for consideration (volunteer themself, put forward by person stepping down) but the decision on whether they become a committee member sits with the remaining organising committee and is determined by majority vote.
+
+Committee members are expected to be reguarly involved in UG meetings but are not required to be at every event.
+New committee members are taken on for a 3 month trial before becoming full fledged members. This gives the new member time to establish if they understood exactly what they were getting involved in, as well as allowing the existing committee to determine if they work well together.
 
 ## What are the organising committee responsibilities?
 
@@ -18,7 +21,7 @@ Various organiser responsibilities include:
 * Registration coordinator
 * Food organiser
 
-## Event Host
+### Event Host
 
 The event host is front of house during an event. Their responsibility includes:
 
@@ -29,32 +32,32 @@ The event host is front of house during an event. Their responsibility includes:
 * Facilitating Q&A after each speaker
 * Thanking speakers and giving them gifts
 
-## Venue Organiser
+### Venue Organiser
 
 The venue organiser is responsible for making sure the venue is booked, setup and returned back to the state it was before the event started. Their responsibility includes:
 * Organising / confirming booking the venue for each event
 * Co-ordinating people to set up the venue before the event starts
 * Co-ordinating people to return the venue back to the state it was before
 
-## Thank you gift organiser
+### Thank you gift organiser
 
 The thank you gift organiser makes sure we have appropriate gifts for the speakers and that the gifts are given to the event host before the event. Their responsibility inlcudes:
 * Co-ordinating buying gifts
 * Preparing gifts for speakers
 * Co-ordinating getting the gifts to the host before the event
 
-## Registraion Coordinator
+### Registraion Coordinator
 
 The registration co-ordinator is responsible for making sure people who have rsvp'ed to an event are registered and that anyone attending an event has met the correct building health and safety requirements. Their responsibility includes:
 * Being at the event early to make sure people attending are registered and have signed in
 * Welcoming people attending for the first time
 
-## Food Organiser
+### Food Organiser
 
 The food orgnaiser is responsbile for making sure we have food organised for each event. Their responsibiliteis inlcudes:
 * Making sure food is ordered on the day and delivered on time
 
-## Shared responsibilities
+### Shared responsibilities
 
 * Updating meetup for new events
 * Identifying and approaching new speakers and topics
