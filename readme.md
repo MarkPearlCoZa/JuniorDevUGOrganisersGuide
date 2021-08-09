@@ -1,5 +1,3 @@
-# This is the default new book content
-
-Please note that the manuscript folder is actually something which needs to live in your repository.
-
-So, you **paste the manuscript folder itself** into your repository, not just the contents of the manuscript folder.
+# This is the LeanPub format for the JuniorDev UG Organisers Guidebook
+# 
+# Explore the sub folders to get the book, for a hard copy go to https://leanpub.com/juniordev-auckland-usergroup-organisers-guidebook
