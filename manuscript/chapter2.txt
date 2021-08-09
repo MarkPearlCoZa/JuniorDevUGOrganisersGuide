@@ -58,12 +58,42 @@ Total meeting time ~ 60 to 70 minutes.
 
 ## What topics are covered in our events?
 
-We like to have a mix of "technical" and "soft topics". This aligns with the 
+We like to have a mix of "technical" and "soft topics". We want topics that aren't too niche/narrow use cases so that the majority of people will get benefit from it. 
 
-## Planning events
+Some examples of topics that have happened in the past...
+* 5 things about git  
+* Tips to effectively use the command line  
+* Lessons learned from pair programming  
+* What's TDD  
+* 3 different language paradigms (Functional, Object Oriented & Procedural)  
+* 4 things everyone should know about HTML  
+* Learn how to learn  
+* Expectations vs Reality - Life as a Software Developer  
+* Dealing with tech debt  
+* Different ways to pair program effectively  
+* It's testing time  
+* Solid  
+
+## How does planning for events happen?
 
 We use a Google Sheet called [Speakers and Talks](https://docs.google.com/spreadsheets/d/1XhQ1aYOzX1wR9nFpM881VYj3oxLeBhN5jlZYMvG7z6A/edit?usp=sharing) to plan/co-ordinate what's been done for each event.
-We are intentional around being clear on who is performing what role for each event so that things run smoothly and everyone has a good experience.
+For each event we are intentional around being who is performing what role so that things run smoothly and everyone has a good experience.
+
+## General guidelines for our site and events
+
+### Highly Encouraged
+
+1. Questions/answers/comments/additions to any of the JuniorDev Auckland events
+3. Connecting with other community members
+
+### What Is Not Allowed
+
+1. Job Postings - Everyone in this community has probably experienced the deluge of recruiting emails and announcements.   
+
+2. Product/Event Promotion - Please no promoting your own products/services/events. This discussion board is not to be used for marketing purposes.  
+
+3. Content Promotion - Please no promoting your own content unless it is highly relevant to a questions/discussion.  
+
 
 ## What are our expectations on attendees at events?
 
