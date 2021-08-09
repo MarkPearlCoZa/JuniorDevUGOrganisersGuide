@@ -1,6 +1,6 @@
 # Guiding questions
 
-For the sake of brevity, the Junior Dev Auckland User Group will be referred to as JDA for the remainder of this booklet.
+For the sake of brevity, the Junior Dev Auckland User Group is referred to as JDA for the remainder of this booklet.
 
 ## Who runs JDA?
 
@@ -8,10 +8,9 @@ JDA is run by volunteers. It has a standing organising committee of 3-5 people. 
 
 Organising committee members are expected to reguarly be involved in UG meetings but are not required to be at every event.
 
-If an existing committee member steps down, the remaining organising committee determine if they want to fill the space with a new organising committee member.
-Anyone can be put forward for consideration but the decision on whether they ultimately become an organising committee member sits with the organising committee memebers still serving. It is determined by majority vote.
+If an existing committee member steps down, the remaining organising committee determine if they want to fill the space with a new organising committee member. Anyone can be put forward for consideration but the decision on whether they ultimately become an organising committee member sits with the organising committee memebers still serving. It is determined by majority vote.
 
-New committee members are taken on for a trial perod before becoming permanent organising committee members - this gives them time to establish if they understand what they are getting involved in and have capacity to meaninfully contribute. It also allows existing committee members to determine if they work well together.
+New committee members are taken on for a trial perod before becoming permanent organising committee members - this gives them time to establish what they are getting involved in and whether they have capacity to meaninfully contribute. It also allows existing committee members to determine if the new committee member works well with the group.
 
 ## What are the organising committee responsibilities?
 
@@ -20,6 +19,7 @@ Various organiser responsibilities include:
 * Venue organiser
 * Thank you gift organiser
 * Registration coordinator
+* Door duty
 * Food organiser
 
 ### Event Host
@@ -42,40 +42,45 @@ The venue organiser is responsible for making sure the venue is booked, setup an
 
 ### Thank you gift organiser
 
-The thank you gift organiser makes sure we have appropriate gifts for the speakers and that the gifts are given to the event host before the event. Their responsibility inlcudes:
+The thank you gift organiser makes sure we have appropriate gifts for the speakers and that the gifts are given to the event host before the event. Their responsibility includes:
 * Co-ordinating buying gifts
 * Preparing gifts for speakers
 * Co-ordinating getting the gifts to the host before the event
 
-### Registraion Coordinator
+### Registration Coordinator
 
-The registration co-ordinator is responsible for making sure people who have rsvp'ed to an event are registered and that anyone attending an event has met the correct building health and safety requirements. Their responsibility includes:
+The registration co-ordinator is responsible for making sure people who have RSVP ed to an event are registered and that anyone attending an event has met the correct building health and safety requirements. Their responsibility includes:
 * Being at the event early to make sure people attending are registered and have signed in
 * Welcoming people attending for the first time
 
+### Door duty
+
+The person on door duty is responsible for making sure people who arrive at the venue get to the registration desk. Their responsibility includes:
+* Being at the event early to be around when attendees start arriving
+* Helping people get from the entrance to registration
+
 ### Food Organiser
 
-The food orgnaiser is responsbile for making sure we have food organised for each event. Their responsibiliteis inlcudes:
+The food organiser is responsible for making sure we have food organised for each event. Their responsibilities includes:
 * Making sure food is ordered on the day and delivered on time
 
 ### Shared responsibilities
 
 In addition to these dedicated responsibilities, there are several responsibilities that are shared across the organising committee. These include:
 
-* Updating meetups for new events
+* Updating the Meetup site for new events
 * Identifying and approaching new speakers and topics
 * Deciding when events will happen and who will present at what event
 
-## How does JDA meet?
-
-JDA is an in person user group. We meet face to face in Auckland. We do not live stream meetings because we feel this detracts and complicates organising in-person meetups.
 
 ## Where do we meet?
+
+JDA is an in person user group. We meet face to face in Auckland. We do not live stream meetings because we feel this detracts and complicates organising in-person meetings.
 
 We meet at Xero's offices in Parnell. We try keep the same venue for meetings because:
 
 * It provides predictability for members attending the group (once you have figured out park, transport etc it's a known entity)  
-* It simplifies organsiing events (making sure it is bookedn and available, we have the right seating, access, projectors working)  
+* It simplifies organising events (making sure it is booked and available, we have the right seating, access, projectors working)  
 * Xero covers the cost of food which attracts attendees and reduces the user groups operating costs  
 * Xero's intentions around hosting and giving back to the community appear genuine  
 
@@ -92,6 +97,10 @@ Food / conversation - 30 minutes
 
 Total meeting time ~ 60 to 70 minutes.
 
+## Planning events
+
+We use a Google Sheet called [Speakers and Talks](https://docs.google.com/spreadsheets/d/1XhQ1aYOzX1wR9nFpM881VYj3oxLeBhN5jlZYMvG7z6A/edit?usp=sharing) to plan/co-ordinate what's been done for each event.
+
 ## What are your JuniorDev UG attendee expectations?
 
 Attend when you can, we like to see regular faces but also welcome the once off visitors.
@@ -100,4 +109,4 @@ We expect attendees to abide by our code of conduct rules.
 
 ## Are there other chapters of Junior Dev?
 
-We believe there are other chapers of Junior Dev out there however we are not sure if they are still running and we have no requirement to have aligned values, views of meeting formats.
+We believe there are other chapters of Junior Dev out there however we are not sure if they are still running and we have no requirement to have aligned values, views of meeting formats.
